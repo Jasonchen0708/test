@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "semg_test", "semg_test.csproj", "{08279D60-8EFA-4664-9FEA-FC8FFDB4BD6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08279D60-8EFA-4664-9FEA-FC8FFDB4BD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08279D60-8EFA-4664-9FEA-FC8FFDB4BD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08279D60-8EFA-4664-9FEA-FC8FFDB4BD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08279D60-8EFA-4664-9FEA-FC8FFDB4BD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {379CF1BA-CEDA-473B-B963-0159E6F418DA}
+	EndGlobalSection
+EndGlobal
