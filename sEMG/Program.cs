@@ -22,6 +22,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             sample_mode mode;
+
             mode = sample_mode.semg;         
             //Console.WriteLine(aaa);
             math_computation data = new math_computation();
